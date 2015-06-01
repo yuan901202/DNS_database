@@ -1,5 +1,6 @@
 # DNS_database
 A simple DNS database based on a in-memory/file-based B+ tree
+My program only did the in-memory B+ tree.
 
 ## Description
 Most large databases store their data in files, and access the data as needed. To make this computationally efficient, database management systems (DBMS) need to have indexes into the data to enable them to find a particular record without having to search through the whole database file. Relational DBMS's structure their data in the form of tables of records, where each record contains several fields describing a single entity. A table consists of a large set of records all of the same type.
