@@ -1,5 +1,6 @@
 # DNS_database
-A simple DNS database based on a in-memory/file-based B+ tree
+A simple DNS database based on a in-memory/file-based B+ tree.
+
 My program only did the in-memory B+ tree.
 
 ## Description
